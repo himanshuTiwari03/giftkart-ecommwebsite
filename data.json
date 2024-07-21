@@ -346,9 +346,9 @@
         "price":"1799"
     },
     {
-        "img":"images/men ring.jpg",
-        "title":"Fire Ring",
-        "price":"1999"
+       "img":"images/perfume6.jpg",
+        "title":"LV Perfume",
+        "price":"11499"
     },
     {
         "img":"images/birth.jpg",
@@ -366,14 +366,14 @@
         "price":"7399"
     },
     {
-        "img":"images/men ring.jpg",
-        "title":"Fire Ring",
-        "price":"1999"
+        "img":"images/belt.jpg",
+        "title":"Leather Belt",
+        "price":"1799"
     },
     {
-        "img":"images/men access.jpg",
-        "title":"Accessories",
-        "price":"1499"
+       "img":"images/bag7.jpg",
+        "title":"Leather Bag",
+        "price":"5899"
     }
 ],
 "birthday":[
