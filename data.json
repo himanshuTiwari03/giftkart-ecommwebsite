@@ -1,0 +1,429 @@
+{
+    "bag":[
+    {
+        "img":"images/bag1.jpg",
+        "title":"LV bag",
+        "price":"4499"
+    },
+    {
+        "img":"images/bag2.jpg",
+        "title":"Gucci bag",
+        "price":"8899"
+    },
+    {
+        "img":"images/bag3.jpg",
+        "title":"h&M bag",
+        "price":"3799"
+    },
+    {
+        "img":"images/bag4.jpg",
+        "title":"Dior bag",
+        "price":"9699"
+    },
+    {
+        "img":"images/bag5.jpg",
+        "title":"Gucci bag",
+        "price":"11199"
+    },
+    {
+        "img":"images/bag6.jpg",
+        "title":"John bag",
+        "price":"1899"
+    },
+    {
+        "img":"images/bag7.jpg",
+        "title":"Zara bag",
+        "price":"399"
+    },
+    {
+        "img":"images/bag8.jpg",
+        "title":"H & M bag",
+        "price":"11999"
+    },
+    {
+        "img":"images/bag9.jpg",
+        "title":"Zudip bag",
+        "price":"499"
+    }
+],
+"perfume":[
+    {
+        "img":"images/perfume.jpg",
+        "title":"LV perfume",
+        "price":"4499"
+    },
+    {
+        "img":"images/perfume1.jpg",
+        "title":"Gucci perfume",
+        "price":"8899"
+    },
+    {
+        "img":"images/perfume2.jpg",
+        "title":"h&M perfume",
+        "price":"3799"
+    },
+    {
+        "img":"images/perfume3.jpg",
+        "title":"Dior Perfume",
+        "price":"9699"
+    },
+    {
+        "img":"images/perfume4.jpg",
+        "title":"Gucci Flora",
+        "price":"11199"
+    },
+    {
+        "img":"images/perfume5.jpg",
+        "title":"John Perfume",
+        "price":"1899"
+    },
+    {
+        "img":"images/perfume6.jpg",
+        "title":"Zara Perfume",
+        "price":"399"
+    },
+    {
+        "img":"images/perfume7.jpg",
+        "title":"H & M Perfume",
+        "price":"11999"
+    },
+    {
+        "img":"images/perfume8.jpg",
+        "title":"Zudip Perfume",
+        "price":"499"
+    }
+],
+"women":[
+    {
+        "img":"images/teddy.jpg",
+        "title":"Teddy",
+        "price":"499"
+    },
+    {
+        "img":"images/pendant.jpg",
+        "title":"Pendant",
+        "price":"899"
+    },
+    {
+        "img":"images/bouq.jpg",
+        "title":"Flowers",
+        "price":"799"
+    },
+    {
+        "img":"images/choc4.jpg",
+        "title":"Choclates",
+        "price":"699"
+    },
+    {
+        "img":"images/watch.jpg",
+        "title":"Apple watch",
+        "price":"11199"
+    },
+    {
+        "img":"images/handbag.jpg",
+        "title":"LV Bag",
+        "price":"1899"
+    },
+    {
+        "img":"images/pendant.jpg",
+        "title":"Pendant",
+        "price":"399"
+    },
+    {
+        "img":"images/perfume7.jpg",
+        "title":"Perfume LV",
+        "price":"11999"
+    },
+    {
+        "img":"images/perfume8.jpg",
+        "title":"Zudio Perfume",
+        "price":"499"
+    }
+],
+"cake":[
+    {
+        "img":"images/cake1.jpg",
+        "title":"Fruit Cake",
+        "price":"499"
+    },
+    {
+        "img":"images/cake2.jpg",
+        "title":"Choclate Cake",
+        "price":"899"
+    },
+    {
+        "img":"images/cake3.jpg",
+        "title":"Black Forest Cake",
+        "price":"799"
+    },
+    {
+        "img":"images/cake4.jpg",
+        "title":"Strawberry  Cake",
+        "price":"699"
+    },
+    {
+        "img":"images/cake9.jpg",
+        "title":"Pink Creame  Cake",
+        "price":"1199"
+    },
+    {
+        "img":"images/cake5.jpg",
+        "title":"Friut  Cake",
+        "price":"899"
+    },
+    {
+        "img":"images/cake6.jpg",
+        "title":"White Forest  Cake",
+        "price":"399"
+    },
+    {
+        "img":"images/cake7.jpg",
+        "title":"Caramel  Cake",
+        "price":"1999"
+    },
+    {
+        "img":"images/cake8.jpg",
+        "title":"Choco lava  Cake",
+        "price":"499"
+    }
+],
+"flower":[
+    {
+        "img":"images/bouq.jpg",
+        "title":"Red Roses",
+        "price":"499"
+    },
+    {
+        "img":"images/bouq1.jpg",
+        "title":"Roses with lavender",
+        "price":"899"
+    },
+    {
+        "img":"images/bouq2.jpg",
+        "title":"Birthday Flowers",
+        "price":"799"
+    },
+    {
+        "img":"images/bouq3.jpg",
+        "title":"Red White Roses",
+        "price":"699"
+    },
+    {
+        "img":"images/bouq4.jpg",
+        "title":"Red & Pink Roses",
+        "price":"199"
+    },
+    {
+        "img":"images/bouq5.jpg",
+        "title":"Small Bouqet",
+        "price":"899"
+    },
+    {
+        "img":"images/bouq6.jpg",
+        "title":"Rose and Tulip",
+        "price":"399"
+    },
+    {
+        "img":"images/bouq7.jpg",
+        "title":"Marigold with Roses",
+        "price":"999"
+    },
+    {
+        "img":"images/bouq8.jpg",
+        "title":"Purple Tulip",
+        "price":"499"
+    }
+],
+"anniversary":[
+    {
+        "img":"images/anniver.jpg",
+        "title":"Anniversary Gift",
+        "price":"499"
+    },
+    {
+        "img":"images/anniver1.jpg",
+        "title":"Anniversary Gift",
+        "price":"899"
+    },
+    {
+        "img":"images/anniver2.jpg",
+        "title":"Anniversary Gift",
+        "price":"799"
+    },
+    {
+        "img":"images/anniver3.jpg",
+        "title":"Anniversary Gift",
+        "price":"699"
+    },
+    {
+        "img":"images/anniver4.jpg",
+        "title":"Anniversary Gift",
+        "price":"1199"
+    },
+    {
+        "img":"images/anniver5.jpg",
+        "title":"Anniversary Gift",
+        "price":"899"
+    },
+    {
+        "img":"images/anniver6.jpg",
+        "title":"Anniversary Gift",
+        "price":"399"
+    },
+    {
+        "img":"images/anniver7.jpg",
+        "title":"Anniversary Gift",
+        "price":"1999"
+    },
+    {
+        "img":"images/anniver8.jpg",
+        "title":"Anniversary Gift",
+        "price":"11499"
+    }
+],
+"choclate":
+[
+    {
+        "img":"images/choc.jpg",
+        "title":"Choclate Large Pack",
+        "price":"499"
+    },
+    {
+        "img":"images/choc1.jpg",
+        "title":"Dairy Milk Pack",
+        "price":"899"
+    },
+    {
+        "img":"images/choc3.jpg",
+        "title":"Rojer Choclate",
+        "price":"799"
+    },
+    {
+        "img":"images/choc5.jpg",
+        "title":"Galaxy Choclate",
+        "price":"699"
+    },
+    {
+        "img":"images/choc6.jpg",
+        "title":"Cadbury Pack",
+        "price":"199"
+    },
+    {
+        "img":"images/choc8.jpg",
+        "title":"Cadbury Celebration Pack",
+        "price":"899"
+    },
+    {
+        "img":"images/choclates.jpg",
+        "title":"Heart Choclate",
+        "price":"399"
+    },
+    {
+        "img":"images/choc.jpg",
+        "title":"Large Pack",
+        "price":"199"
+    },
+    {
+        "img":"images/choc1.jpg",
+        "title":"Cadbury Jumbo Pack",
+        "price":"499"
+    }
+],
+"men":[
+    {
+        "img":"images/watch.jpg",
+        "title":"Men Accessories",
+        "price":"1499"
+    },
+    {
+        "img":"images/wallet.jpg",
+        "title":"Men Ring",
+        "price":"899"
+    },
+    {
+        "img":"images/watch.jpg",
+        "title":"Watch",
+        "price":"7799"
+    },
+    {
+        "img":"images/wallet.jpg",
+        "title":"Wallet",
+        "price":"699"
+    },
+    {
+        "img":"images/birth.jpg",
+        "title":"Men Accessories",
+        "price":"2199"
+    },
+    {
+        "img":"images/anniver3.jpg",
+        "title":"Mug",
+        "price":"899"
+    },
+    {
+        "img":"images/birth.jpg",
+        "title":"LV Sunglasses",
+        "price":"7399"
+    },
+    {
+        "img":"images/wallet.jpg",
+        "title":"Fire Ring",
+        "price":"1999"
+    },
+    {
+        "img":"images/watch.jpg",
+        "title":"Accessories",
+        "price":"499"
+    }
+],
+"birthday":[
+    {
+        "img":"images/cake1.jpg",
+        "title":"Fruit Cake",
+        "price":"499"
+    },
+    {
+        "img":"images/birth2.jpg",
+        "title":"Photo Album",
+        "price":"899"
+    },
+    {
+        "img":"images/birth.jpg",
+        "title":"Birthday Pack",
+        "price":"799"
+    },
+    {
+        "img":"images/birth3.jpg",
+        "title":"Decoration Pack",
+        "price":"699"
+    },
+    {
+        "img":"images/birth4.jpg",
+        "title":"Accessories Pack",
+        "price":"1199"
+    },
+    {
+        "img":"images/birth5.jpg",
+        "title":"Accessories",
+        "price":"899"
+    },
+    {
+        "img":"images/birth6.jpg",
+        "title":"Mug",
+        "price":"399"
+    },
+    {
+        "img":"images/birth7.jpg",
+        "title":"Choclate Pack",
+        "price":"1999"
+    },
+    {
+        "img":"images/watch.jpg",
+        "title":"Watch",
+        "price":"11499"
+    }
+]
+
+
+
+}
