@@ -95,9 +95,9 @@
 ],
 "women":[
     {
-        "img":"images/teddy.jpg",
-        "title":"Teddy",
-        "price":"499"
+        "img":"images/perfume7.jpg",
+        "title":"Zara Perfume",
+        "price":"4499"
     },
     {
         "img":"images/pendant.jpg",
@@ -115,9 +115,9 @@
         "price":"699"
     },
     {
-        "img":"images/watch.jpg",
-        "title":"Apple watch",
-        "price":"11199"
+        "img":"images/bouq4.jpg",
+        "title":"Bouquet",
+        "price":"1199"
     },
     {
         "img":"images/handbag.jpg",
@@ -331,24 +331,24 @@
 ],
 "men":[
     {
-        "img":"images/watch.jpg",
-        "title":"Men Accessories",
-        "price":"1499"
+        "img":"images/perfume6.jpg",
+        "title":"LV Perfume",
+        "price":"11499"
     },
     {
-        "img":"images/wallet.jpg",
-        "title":"Men Ring",
-        "price":"899"
+        "img":"images/bag7.jpg",
+        "title":"Leather Bag",
+        "price":"5899"
     },
     {
-        "img":"images/watch.jpg",
-        "title":"Watch",
-        "price":"7799"
+        "img":"images/belt.jpg",
+        "title":"Leather Belt",
+        "price":"1799"
     },
     {
-        "img":"images/wallet.jpg",
-        "title":"Wallet",
-        "price":"699"
+        "img":"images/men ring.jpg",
+        "title":"Fire Ring",
+        "price":"1999"
     },
     {
         "img":"images/birth.jpg",
@@ -366,14 +366,14 @@
         "price":"7399"
     },
     {
-        "img":"images/wallet.jpg",
+        "img":"images/men ring.jpg",
         "title":"Fire Ring",
         "price":"1999"
     },
     {
-        "img":"images/watch.jpg",
+        "img":"images/men access.jpg",
         "title":"Accessories",
-        "price":"499"
+        "price":"1499"
     }
 ],
 "birthday":[
@@ -418,7 +418,7 @@
         "price":"1999"
     },
     {
-        "img":"images/watch.jpg",
+        "img":"images/choc.jpg",
         "title":"Watch",
         "price":"11499"
     }
